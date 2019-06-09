@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ai-python/ai-python.iml" filepath="$PROJECT_DIR$/ai-python/ai-python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api-gateway-zuul/api-gateway-zuul.iml" filepath="$PROJECT_DIR$/api-gateway-zuul/api-gateway-zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chat-netty-server/chat-netty-server.iml" filepath="$PROJECT_DIR$/chat-netty-server/chat-netty-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-client/cloud-client.iml" filepath="$PROJECT_DIR$/cloud-client/cloud-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-consumer/cloud-consumer.iml" filepath="$PROJECT_DIR$/cloud-consumer/cloud-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-eureka/cloud-eureka.iml" filepath="$PROJECT_DIR$/cloud-eureka/cloud-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-gitconfig/cloud-gitconfig.iml" filepath="$PROJECT_DIR$/cloud-gitconfig/cloud-gitconfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-provider/cloud-provider.iml" filepath="$PROJECT_DIR$/cloud-provider/cloud-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dynamics-alidubbo-service-api/dynamics-alidubbo-service-api.iml" filepath="$PROJECT_DIR$/dynamics-alidubbo-service-api/dynamics-alidubbo-service-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dynamics-alidubbo-service-producter/dynamics-alidubbo-service-producter.iml" filepath="$PROJECT_DIR$/dynamics-alidubbo-service-producter/dynamics-alidubbo-service-producter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dynamics-edge-service/dynamics-edge-service.iml" filepath="$PROJECT_DIR$/dynamics-edge-service/dynamics-edge-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/el-mq/el-mq.iml" filepath="$PROJECT_DIR$/el-mq/el-mq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/openct-tenorflow-face/openct-tenorflow-face.iml" filepath="$PROJECT_DIR$/openct-tenorflow-face/openct-tenorflow-face.iml" />
+      <module fileurl="file://$PROJECT_DIR$/soulchat.iml" filepath="$PROJECT_DIR$/soulchat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/study-hbase/study-hbase.iml" filepath="$PROJECT_DIR$/study-hbase/study-hbase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-edge-service/user-edge-service.iml" filepath="$PROJECT_DIR$/user-edge-service/user-edge-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-thrift-service/user-thrift-service.iml" filepath="$PROJECT_DIR$/user-thrift-service/user-thrift-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-thrift-service-api/user-thrift-service-api.iml" filepath="$PROJECT_DIR$/user-thrift-service-api/user-thrift-service-api.iml" />
+    </modules>
+  </component>
+</project>

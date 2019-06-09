@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Maven: top.soul:dynamics-alidubbo-service-api:1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://D:/maven/mavjar/top/soul/dynamics-alidubbo-service-api/1.0-SNAPSHOT/dynamics-alidubbo-service-api-1.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/dynamics-alidubbo-service-api/dynamics-alidubbo-service-api-1.0-SNAPSHOT-javadoc.jar!/" />
+      <root url="jar://D:/maven/mavjar/top/soul/dynamics-alidubbo-service-api/1.0-SNAPSHOT/dynamics-alidubbo-service-api-1.0-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/dynamics-alidubbo-service-api/dynamics-alidubbo-service-api-1.0-SNAPSHOT-sources.jar!/" />
+      <root url="jar://D:/maven/mavjar/top/soul/dynamics-alidubbo-service-api/1.0-SNAPSHOT/dynamics-alidubbo-service-api-1.0-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

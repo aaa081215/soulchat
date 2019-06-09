@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/serverws" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/wsserver/pom.xml" />
+        <option value="$PROJECT_DIR$/elastic-search/pom.xml" />
+        <option value="$PROJECT_DIR$/es/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-client/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-gitconfig/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/cloud-config/pom.xml" />
+        <option value="$PROJECT_DIR$/dynamics-alidubbo-service/pom.xml" />
+        <option value="$PROJECT_DIR$/elastic-search/pom.xml" />
+        <option value="$PROJECT_DIR$/es/pom.xml" />
+        <option value="$PROJECT_DIR$/message-thrift-service-api/pom.xml" />
+        <option value="$PROJECT_DIR$/stu-hbase/pom.xml" />
+        <option value="$PROJECT_DIR$/user-sso-service/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

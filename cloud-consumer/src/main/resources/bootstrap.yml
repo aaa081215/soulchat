@@ -1,0 +1,18 @@
+#eureka:
+#  client:
+#    service-url:
+#      defaultZone: http://localhost:8761/eureka/
+##  instance:
+##    hostname: clientName
+spring:
+  application:
+    name: matchconsumer
+  cloud:
+    config:
+      discovery:
+        enabled: false
+        service-id: CONFIG
+      profile: dev
+server:
+  port: 10011
+

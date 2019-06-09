@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/api-gateway-zuul" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chat-netty-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-gitconfig" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dynamics-alidubbo-service-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dynamics-alidubbo-service-producter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dynamics-edge-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/el-mq" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stu-hbase" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/study-hbase" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user-edge-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user-thrift-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user-thrift-service-api" charset="UTF-8" />
+  </component>
+</project>

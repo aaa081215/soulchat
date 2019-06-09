@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="api-gateway-zuul" />
+        <module name="chat-netty-server" />
+        <module name="cloud-client" />
+        <module name="cloud-consumer" />
+        <module name="cloud-eureka" />
+        <module name="cloud-gitconfig" />
+        <module name="cloud-provider" />
+        <module name="dynamics-alidubbo-service-api" />
+        <module name="dynamics-alidubbo-service-producter" />
+        <module name="dynamics-edge-service" />
+        <module name="el-mq" />
+        <module name="study-hbase" />
+        <module name="user-edge-service" />
+        <module name="user-thrift-service" />
+        <module name="user-thrift-service-api" />
+        <module name="wsserver" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="api-gateway-zuul" target="1.7" />
+      <module name="chat-netty-server" target="1.7" />
+      <module name="cloud-client" target="1.8" />
+      <module name="cloud-config" target="1.8" />
+      <module name="cloud-consumer" target="1.8" />
+      <module name="cloud-eureka" target="1.8" />
+      <module name="cloud-gitconfig" target="1.8" />
+      <module name="cloud-provider" target="1.8" />
+      <module name="dynamics-alidubbo-service" target="1.7" />
+      <module name="dynamics-alidubbo-service-api" target="1.7" />
+      <module name="dynamics-alidubbo-service-producter" target="1.7" />
+      <module name="dynamics-dubbo-service-api" target="1.7" />
+      <module name="dynamics-edge-service" target="1.7" />
+      <module name="el-mq" target="1.7" />
+      <module name="elastic-search" target="1.7" />
+      <module name="es" target="1.7" />
+      <module name="message-thrift-service-api" target="1.7" />
+      <module name="serverws" target="1.7" />
+      <module name="soulchat" target="1.7" />
+      <module name="study-hbase" target="1.8" />
+      <module name="user-edge-service" target="1.7" />
+      <module name="user-sso-service" target="1.7" />
+      <module name="user-thrift-service" target="1.7" />
+      <module name="user-thrift-service-api" target="1.7" />
+      <module name="wsserver" target="1.8" />
+      <module name="ztemplate" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
