@@ -1,31 +1,12 @@
-redis:106.14.13.61:6379
-mysql:106.14.13.61:3306/soul_user
-mysql:106.14.13.61:3306/soul_dynamics_01
-mysql:106.14.13.61:3306/soul_dynamics_02
-zookeeper106.14.13.61:2181
-mq:  106.14.13.61:61616
-
-1:user thrift 140.143.79.106:7911
-
-2:message mq 106.14.13.61:61616
-
-3:user edge port:8082
-
-4:dynamics dubbo provider port:20880
-
-5:dynamics dubbo edge port:8081
-
-6:ws netty chat port : 8089
-
-7:zuul port:8080
-
-
-
-
-##
-http://localhost:8081//dynamics/list
-http://localhost:8082/user/sendVerifyCode?email=1203269511@qq.com
-
-
-单机部署：
-netty-server 8089 8090
+功能描述：
+1，即时匹配功能，在任意时刻，匹配到同时在线的人。
+2，聊天功能，匹配成功后，用户之间可以进行聊天。
+3，发布短视频，评论功能。
+5，图形处理，haar人脸识别，图片边缘检测，美颜。
+系统架构及核心技术点：
+-Netty百万长连接并发服务 
+-Haar+Adaboost人脸识别技术 
+-Tensorflow深度学习
+-SpringCloud微服务系统架构
+-Dubbo微服务系统架构
+-Docker容器部署
