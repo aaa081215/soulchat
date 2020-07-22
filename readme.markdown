@@ -1,4 +1,4 @@
-该系统利用Spring Cloud，Dubbo，Thrift三个微服务框架整合开发。每个框架都可以完整的被拿来直接复用，适合微服务学习的伙伴。并且用到了Tensorflow深度学习框架与Haar+Adaboost人脸识别技术，增加系统的趣味性。
+这是一个利用Spring Cloud，Dubbo，Thrift三个微服务框架整合开发的IM社交系统,并用到了Netty即时通讯技术，Tensorflow深度学习框架与Haar+Adaboost人脸识别技术，每个模块都可以被完整的被拿来直接使用，适合对微服务，即时通信感兴趣的小伙伴。并且新增短信提醒功能，会按照你指定的时间进行消息提醒。
 
 系统网址 [链接](http://im.9421.top/)
 新增功能：
